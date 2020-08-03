@@ -1,6 +1,6 @@
 # Alejandro  - @aaspinwall
-#### Full stack developer
-#### Javascript | React | Gatsby 
+#### Full stack developer <br/>
+#### Javascript | React | Gatsby <br/>
 ####  :taco: Tacomaster & :pizza: pizza aficionado
 
 
@@ -8,11 +8,11 @@
 
 ## My values
 
-:open_hands: Teamwork makes everyone stronger
-:key: Good communication is essential
-:hearts: I'm eager to learn something new
+:open_hands: Teamwork makes everyone stronger <br/>
+:key: Good communication is essential <br/>
+:hearts: I'm eager to learn something new <br/>
 
-## My quick story
+## About me
 
 
 **I have been building web stuff since I was 11 years-old**. Back in the day I tinkered endlessly with the site builder tool from Geocities and came up with a few sites where I could host the Flash animations I was making for my friends. When social media came around I was making myspace websites look stunning (15 year old me thought so) with my sick coding skills.
