@@ -1,6 +1,6 @@
 # Alejandro  - @aaspinwall
 #### Full stack developer <br/>
-#### Javascript | React | Gatsby <br/>
+#### Javascript | React | Gatsby | Nextjs <br/>
 ####  :taco: Tacomaster & :pizza: pizza aficionado
 
 
@@ -8,9 +8,11 @@
 
 ## My values
 
-:open_hands: Teamwork makes everyone stronger <br/>
-:key: Good communication is essential <br/>
-:hearts: I'm eager to learn something new <br/>
+:open_hands:  **Teamwork** makes everyone stronger <br/>
+
+:key:  Good **communication** is essential <br/>
+
+:hearts:  I'm eager to **learn** something new <br/>
 
 ## About me
 
