@@ -23,5 +23,6 @@
 
 
 ## Get in touch 
-My site: [alejandro.aspinwall.ca](https://www.alejandroaspinwall.ca/)
+My site: [aaspinwall.com](https://www.aaspinwall.com/)
 Twitter: [@aaspinwall](https://twitter.com/aaspinwall)
+Email: contact@aaspinwall.com
