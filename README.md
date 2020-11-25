@@ -1,5 +1,5 @@
 # Alejandro  - @aaspinwall
-#### Full stack developer <br/>
+#### Software Engineer <br/>
 #### Javascript | React | Gatsby | Nextjs <br/>
 ####  :taco: Tacomaster & :pizza: pizza aficionado
 
