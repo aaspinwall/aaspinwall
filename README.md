@@ -1,8 +1,8 @@
 # Alejandro  - @aaspinwall
 #### Software Engineer <br/>
-#### **Frontend**  Typescript | React | GraphQL | Nextjs <br/>
-#### **Backend** Node.js | Prisma | Docker <br/>
-#### **Dev-Ops** AWS | GCP | Github Actions <br/>
+#### Frontend:  Typescript | React | GraphQL | Nextjs <br/>
+#### Backend: Node.js | Prisma | Docker <br/>
+#### Dev-Ops: AWS | GCP | Github Actions <br/>
 ####  :taco: Tacomaster & :pizza: pizza aficionado
 
 
