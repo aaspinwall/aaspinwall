@@ -1,6 +1,7 @@
 # Alejandro  - @aaspinwall
 #### Software Engineer <br/>
-#### Javascript | React | Gatsby | Nextjs <br/>
+#### Typescript | React | GraphQL | Nextjs <br/>
+#### Node.js | Docker <br/>
 ####  :taco: Tacomaster & :pizza: pizza aficionado
 
 
