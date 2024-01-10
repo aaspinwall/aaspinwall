@@ -1,6 +1,7 @@
 # Alejandro  - @aaspinwall
-Software Engineer <br/>Typescript | React | GraphQL | Nextjs <br/>Node.js | Python | Java<br/>AWS | GCP | Docker<br/>:taco: Tacomaster & :pizza: pizza aficionado
 ## Frontend Engineer @ Amazon
+Typescript | React | GraphQL | Nextjs <br/>Node.js | Python | Java | AWS | GCP | Docker<br/>:taco: Tacomaster & :pizza: pizza aficionado
+
 
 
 
